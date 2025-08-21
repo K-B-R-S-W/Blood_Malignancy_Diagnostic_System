@@ -1,0 +1,22 @@
+# Core web framework
+Flask==2.3.3
+Werkzeug==2.3.7
+
+# PyTorch ecosystem for deep learning
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+
+# Image processing
+Pillow==10.0.0
+
+# Scientific computing
+numpy==1.24.3
+
+# Additional dependencies that may be needed
+gunicorn==21.2.0
+python-dotenv==1.0.0
+
+# Development dependencies (optional)
+# pytest==7.4.0
+# pytest-flask==1.2.0
