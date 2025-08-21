@@ -1,5 +1,5 @@
 # 🩸 Blood Malignancy Diagnostic System
-
+---
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
@@ -10,7 +10,7 @@
 
 **Advanced AI-powered blood cell classification system using ResNet-50 deep learning architecture**
 
-[🚀 Demo](#demo) • [📋 Features](#features) • [⚙️ Installation](#installation) • [🔬 Usage](#usage) • [📊 Results](#results)
+
 
 </div>
 
@@ -85,7 +85,7 @@ The **Blood Malignancy Diagnostic System** is a state-of-the-art machine learnin
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/blood-malignancy-diagnostic-system.git
+git clone https://github.com/K-B-R-S-W/blood-malignancy-diagnostic-system.git
 cd blood-malignancy-diagnostic-system
 ```
 
@@ -225,21 +225,21 @@ blood-malignancy-diagnostic-system/
 ├── 📁 model/                          # Trained model files
 │   ├── blood_cell_resnet50.pth       # Main trained model
 │   └── blood_cell_results.pth        # Training results & metrics
-├── 📁 static/                         # Static web assets
-│   ├── 📁 images/                     # Sample blood cell images
-│   └── 📁 uploads/                    # User uploaded files
-├── 📁 templates/                      # HTML templates
-│   ├── index.html                     # Main upload page
-│   ├── result.html                    # Results display page
-│   └── error.html                     # Error page
-├── 📄 main.py                         # Flask application
-├── 📄 requirements.txt                # Python dependencies
-├── 📄 ResNet50_Model_Training.ipynb   # Training notebook
-├── 📄 extract_results.py              # Results visualization
-├── 📄 simple_extract.py               # Simple results extractor
-├── 📄 run_with_conda.bat              # Windows launcher
-├── 📄 run_app.ps1                     # PowerShell launcher
-└── 📄 README.md                       # This file
+├── 📁 static/                         
+│   ├── 📁 images/                    
+│   └── 📁 uploads/                   
+├── 📁 templates/                      
+│   ├── index.html                     
+│   ├── result.html                    
+│   └── error.html                     
+├── 📄 main.py                        
+├── 📄 requirements.txt               
+├── 📄 ResNet50_Model_Training.ipynb   
+├── 📄 extract_results.py              
+├── 📄 simple_extract.py               
+├── 📄 run_with_conda.bat              
+├── 📄 run_app.ps1                     
+└── 📄 README.md                       
 ```
 
 ---
@@ -314,9 +314,9 @@ python simple_extract.py
 We welcome contributions! Please follow these steps:
 
 1. **Fork the repository**
-2. **Create feature branch** (`git checkout -b feature/amazing-feature`)
-3. **Commit changes** (`git commit -m 'Add amazing feature'`)
-4. **Push to branch** (`git push origin feature/amazing-feature`)
+2. **Create feature branch** 
+3. **Commit changes** 
+4. **Push to branch** 
 5. **Open Pull Request**
 
 ### Development Setup
@@ -341,12 +341,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 👥 Authors & Acknowledgments
-
-- **Developer**: [Your Name](https://github.com/yourusername)
-- **Institution**: [Your Institution]
-- **Research Team**: [Team Members]
-
 ### Acknowledgments
 
 - PyTorch team for the deep learning framework
@@ -361,8 +355,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ### Get Help
 
 - 📧 **Email**: support@bloodcellai.com
-- 💬 **Issues**: [GitHub Issues](https://github.com/yourusername/blood-malignancy-diagnostic-system/issues)
-- 📖 **Documentation**: [Wiki](https://github.com/yourusername/blood-malignancy-diagnostic-system/wiki)
+- 💬 **Issues**: [GitHub Issues](https://github.com/K-B-R-S-W/blood-malignancy-diagnostic-system/issues)
+- 📖 **Documentation**: [Wiki](https://github.com/K-B-R-S-W/blood-malignancy-diagnostic-system/wiki)
 
 ### Citation
 
@@ -371,18 +365,22 @@ If you use this work in your research, please cite:
 ```bibtex
 @software{blood_cell_ai_2025,
   title={Blood Malignancy Diagnostic System},
-  author={Your Name},
+  author={K-B-R-S-W},
   year={2025},
-  url={https://github.com/yourusername/blood-malignancy-diagnostic-system}
+  url={https://github.com/K-B-R-S-W/blood-malignancy-diagnostic-system}
 }
 ```
 
 ---
 
-<div align="center">
+## 📮 Support
 
-**⭐ Star this repository if you found it helpful!**
+**📧 Email:** [k.b.ravindusankalpaac@gmail.com](mailto:k.b.ravindusankalpaac@gmail.com)  
+**🐞 Bug Reports:** [GitHub Issues](https://github.com/K-B-R-S-W/Blood_Malignancy_Diagnostic_System/issues)  
+**📚 Documentation:** [Project Wiki](https://github.com/K-B-R-S-W/Blood_Malignancy_Diagnostic_System/wiki)  
+**💭 Discussions:** [GitHub Discussions](https://github.com/K-B-R-S-W/Blood_Malignancy_Diagnostic_System/discussions)  
 
-Made with ❤️ for advancing medical AI research
+---
 
-</div>
+## ⭐ Support This Project
+If you find this project helpful, please give it a **⭐ star** on GitHub — it motivates me to keep improving! 🚀
