@@ -360,14 +360,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 📞 Contact & Support
-
-### Get Help
-
-- 📧 **Email**: support@bloodcellai.com
-- 💬 **Issues**: [GitHub Issues](https://github.com/K-B-R-S-W/blood-malignancy-diagnostic-system/issues)
-- 📖 **Documentation**: [Wiki](https://github.com/K-B-R-S-W/blood-malignancy-diagnostic-system/wiki)
-
 ### Citation
 
 If you use this work in your research, please cite:
@@ -394,4 +386,5 @@ If you use this work in your research, please cite:
 
 ## ⭐ Support This Project
 If you find this project helpful, please give it a **⭐ star** on GitHub — it motivates me to keep improving! 🚀
+
 
