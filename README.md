@@ -294,10 +294,20 @@ python simple_extract.py
 ### Generated Visualizations
 
 - 📊 Training/Validation curves
+
+  <img width="1490" height="490" alt="download (2)" src="https://github.com/user-attachments/assets/b639e53c-af16-459d-9579-99fa772b00dc" />
+
 - 🎯 Confusion matrices
+
+  <img width="533" height="408" alt="download (1)" src="https://github.com/user-attachments/assets/073d5da5-3b65-4761-b862-6a85cf6765f5" />
+
 - 📈 Per-class accuracy charts
+
+  <img width="526" height="284" alt="Screenshot 2025-08-21 143533" src="https://github.com/user-attachments/assets/874af65a-628e-41b0-8300-129f5cc9f6da" />
+
 - 📋 Confidence distributions
-- 📄 Classification reports
+
+  <img width="555" height="286" alt="Screenshot 2025-08-21 143527" src="https://github.com/user-attachments/assets/19952930-352c-45c7-a6ed-a2479310d9ec" />
 
 ---
 
@@ -384,3 +394,4 @@ If you use this work in your research, please cite:
 
 ## ⭐ Support This Project
 If you find this project helpful, please give it a **⭐ star** on GitHub — it motivates me to keep improving! 🚀
+
